@@ -1,0 +1,9 @@
+.env
+
+node_modules/
+
+allure-report/
+allure-results/
+rapports
+
+dist/

@@ -1,0 +1,70 @@
+- generic [active] [ref=f209e1]:
+  - banner [ref=f209e2]:
+    - generic [ref=f209e5]:
+      - link [ref=f209e8] [cursor=pointer]:
+        - /url: /
+        - img "Website for automation practice" [ref=f209e9]
+      - list [ref=f209e12]:
+        - listitem [ref=f209e13]:
+          - link " Home" [ref=f209e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f209e15]: 
+            - text: Home
+        - listitem [ref=f209e16]:
+          - link " Products" [ref=f209e17] [cursor=pointer]:
+            - /url: /products
+            - generic [ref=f209e18]: 
+            - text: Products
+        - listitem [ref=f209e19]:
+          - link " Cart" [ref=f209e20] [cursor=pointer]:
+            - /url: /view_cart
+            - generic [ref=f209e21]: 
+            - text: Cart
+        - listitem [ref=f209e22]:
+          - link " Signup / Login" [ref=f209e23] [cursor=pointer]:
+            - /url: /login
+            - generic [ref=f209e24]: 
+            - text: Signup / Login
+        - listitem [ref=f209e25]:
+          - link " Test Cases" [ref=f209e26] [cursor=pointer]:
+            - /url: /test_cases
+            - generic [ref=f209e27]: 
+            - text: Test Cases
+        - listitem [ref=f209e28]:
+          - link " API Testing" [ref=f209e29] [cursor=pointer]:
+            - /url: /api_list
+            - generic [ref=f209e30]: 
+            - text: API Testing
+        - listitem [ref=f209e31]:
+          - link " Video Tutorials" [ref=f209e32] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/AutomationExercise
+            - generic [ref=f209e33]: 
+            - text: Video Tutorials
+        - listitem [ref=f209e34]:
+          - link " Contact us" [ref=f209e35] [cursor=pointer]:
+            - /url: /contact_us
+            - generic [ref=f209e36]: 
+            - text: Contact us
+  - generic [ref=f209e39]:
+    - generic [ref=f209e41]:
+      - heading "Login to your account" [level=2] [ref=f209e42]
+      - generic [ref=f209e43]:
+        - textbox "Email Address" [ref=f209e44]
+        - textbox "Password" [ref=f209e45]
+        - button "Login" [ref=f209e46] [cursor=pointer]
+    - heading "OR" [level=2] [ref=f209e48]
+    - generic [ref=f209e50]:
+      - heading "New User Signup!" [level=2] [ref=f209e51]
+      - generic [ref=f209e52]:
+        - textbox "Name" [ref=f209e53]
+        - textbox "Email Address" [ref=f209e54]
+        - button "Signup" [ref=f209e55] [cursor=pointer]
+  - contentinfo [ref=f209e56]:
+    - generic [ref=f209e61]:
+      - heading "Subscription" [level=2] [ref=f209e62]
+      - generic [ref=f209e63]:
+        - textbox "Your email address" [ref=f209e64]
+        - button "" [ref=f209e65] [cursor=pointer]
+        - paragraph [ref=f209e67]: Get the most recent updates from our site and be updated your self...
+    - paragraph [ref=f209e71]: Copyright © 2021 All rights reserved
+  - text: 

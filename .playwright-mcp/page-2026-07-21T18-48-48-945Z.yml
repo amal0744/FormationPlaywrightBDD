@@ -1,0 +1,91 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img "Website for automation practice" [ref=e9]
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link " Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e15]: 
+            - text: Home
+        - listitem [ref=e16]:
+          - link " Products" [ref=e17] [cursor=pointer]:
+            - /url: /products
+            - generic [ref=e18]: 
+            - text: Products
+        - listitem [ref=e19]:
+          - link " Cart" [ref=e20] [cursor=pointer]:
+            - /url: /view_cart
+            - generic [ref=e21]: 
+            - text: Cart
+        - listitem [ref=e22]:
+          - link " Signup / Login" [ref=e23] [cursor=pointer]:
+            - /url: /login
+            - generic [ref=e24]: 
+            - text: Signup / Login
+        - listitem [ref=e25]:
+          - link " Test Cases" [ref=e26] [cursor=pointer]:
+            - /url: /test_cases
+            - generic [ref=e27]: 
+            - text: Test Cases
+        - listitem [ref=e28]:
+          - link " API Testing" [ref=e29] [cursor=pointer]:
+            - /url: /api_list
+            - generic [ref=e30]: 
+            - text: API Testing
+        - listitem [ref=e31]:
+          - link " Video Tutorials" [ref=e32] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/AutomationExercise
+            - generic [ref=e33]: 
+            - text: Video Tutorials
+        - listitem [ref=e34]:
+          - link " Contact us" [ref=e35] [cursor=pointer]:
+            - /url: /contact_us
+            - generic [ref=e36]: 
+            - text: Contact us
+  - generic [ref=e39]:
+    - generic [ref=e41]:
+      - heading "Login to your account" [level=2] [ref=e42]
+      - generic [ref=e43]:
+        - textbox "Email Address" [ref=e44]
+        - textbox "Password" [ref=e45]
+        - button "Login" [ref=e46] [cursor=pointer]
+    - heading "OR" [level=2] [ref=e48]
+    - generic [ref=e50]:
+      - heading "New User Signup!" [level=2] [ref=e51]
+      - generic [ref=e52]:
+        - textbox "Name" [ref=e53]
+        - textbox "Email Address" [ref=e54]
+        - button "Signup" [ref=e55] [cursor=pointer]
+  - contentinfo [ref=e56]:
+    - generic [ref=e61]:
+      - heading "Subscription" [level=2] [ref=e62]
+      - generic [ref=e63]:
+        - textbox "Your email address" [ref=e64]
+        - button "" [ref=e65] [cursor=pointer]
+        - paragraph [ref=e67]: Get the most recent updates from our site and be updated your self...
+    - paragraph [ref=e71]: Copyright © 2021 All rights reserved
+  - text: 
+  - dialog "Ce site a besoin de votre consentement pour utiliser vos données" [active] [ref=e75]:
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - paragraph [ref=e80]: Bienvenue
+        - heading "Ce site a besoin de votre consentement pour utiliser vos données" [level=1] [ref=e81]
+      - list [ref=e83]:
+        - listitem [ref=e84]:
+          - generic [ref=e89]: Publicités et contenu personnalisés, mesure de performance des publicités et du contenu, études d’audience et développement de services
+        - listitem [ref=e90]:
+          - generic [ref=e95]: Stocker et/ou accéder à des informations sur un appareil
+      - button "En savoir plus" [ref=e96] [cursor=pointer]
+      - generic [ref=e102]:
+        - paragraph [ref=e103]:
+          - text: Vos données à caractère personnel seront traitées, et les informations liées à votre appareil (cookies, identifiants uniques et autres types de données) pourront être stockées et consultées par 210 partenaires, ainsi que partagées avec lui, ou utilisées spécifiquement par ce site. Nos partenaires et nous-mêmes sommes susceptibles d'utiliser des données de géolocalisation précises.
+          - button "Liste des partenaires." [ref=e104] [cursor=pointer]
+        - paragraph [ref=e105]: Certains fournisseurs sont susceptibles de traiter vos données à caractère personnel sur la base de l'intérêt légitime. Vous pouvez vous y opposer en gérant vos options ci-dessous. Recherchez un lien en bas de cette page ou dans le menu du site pour gérer ou retirer votre consentement dans les paramètres des cookies et de confidentialité.
+    - generic [ref=e108]:
+      - button "Autoriser" [ref=e109] [cursor=pointer]:
+        - paragraph [ref=e111]: Autoriser
+      - button "Gérer vos préférences" [ref=e112] [cursor=pointer]:
+        - paragraph [ref=e114]: Gérer vos préférences

@@ -1,0 +1,20 @@
+environnement:
+ urlTest: 'https://www.automationexercise.com'
+ urlPreprod: 'https://www.automationexercise.com'
+
+user:
+ admin:
+  login: 'charfeddine.amal@hotmail.com'
+  password: 'azerty'
+ 
+ superAdmin:
+  login:
+  password:
+
+
+payment:
+ cardName: 'Amal'
+ cardNumber: '0236547952000'
+ cvc: '123'
+ expirationMonth: '01'
+ expirationYear: '2029'

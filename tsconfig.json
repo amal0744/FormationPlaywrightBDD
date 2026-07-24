@@ -1,0 +1,17 @@
+
+//ce fichier pour imposer un type de compilation sur certain parametre
+
+{
+"compilerOptions": {
+        "types": ["node"],
+        "module": "CommonJs",
+        "target": "ES2022",  //version TS
+        "esModuleInterop": true, //utuliser la syntaxe import
+        "skipLibCheck": true, //ignorer le erreurs typeScript dans le fichier node module
+         "rootDir": "./src",
+    },
+
+    "ts-node": {
+        "transpileOnly": true
+    }
+}

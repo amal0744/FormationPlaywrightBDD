@@ -1,1 +1,1 @@
-[]
+[{"uid":"fe2223349d01537b","name":"champs obligatoires vides","time":{"start":1785264843648,"stop":1785264847279,"duration":3631},"status":"passed","severity":"normal"},{"uid":"fe89fce2826a0861","name":"inscription réussie","time":{"start":1785264834856,"stop":1785264839789,"duration":4933},"status":"passed","severity":"normal"},{"uid":"3e1e982094c97923","name":"email déjà existant","time":{"start":1785264839790,"stop":1785264843647,"duration":3857},"status":"passed","severity":"normal"}]

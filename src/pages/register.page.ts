@@ -66,7 +66,7 @@ export class RegisterPage extends BasePage {
         await this.accepterPopup();
         await this.newUserSignupTitle.click();
     }
-
+//ajouter commentaire
     async fillInitialSignup(name: string, email: string): Promise<void> {
         await this.signupNameInput.fill(name);
         await this.signupEmailInput.fill(email);

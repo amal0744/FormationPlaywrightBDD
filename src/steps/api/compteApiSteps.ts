@@ -33,7 +33,7 @@ Before({ tags: '@apiCompte' }, async function () {
   //instancier la classe CompteApi 
   compteApi = new CompteApi(apiContext);
 })
-
+ 
 // API POST Create Compte
 
 Given('l\'api automatisation exercice est disponible', async function () {

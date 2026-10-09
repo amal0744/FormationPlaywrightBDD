@@ -8,7 +8,7 @@ let loginPage: ConnexionPage;
 Given("je suis sur la page de la connexion", async function () {
   loginPage = new ConnexionPage(pageFixture.page);
   await loginPage.navigate();
-});
+}); 
 
 When("je saisie mon login {string}", async function (email) {
   await loginPage.accepterPopup();

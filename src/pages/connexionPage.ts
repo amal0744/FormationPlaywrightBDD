@@ -10,6 +10,8 @@ export class ConnexionPage extends BasePage {
     readonly logintBtn: Locator; 
     readonly logged: Locator;
     readonly msgErreur: Locator;
+    
+/**commentaire **/
 
     constructor(page: Page) { 
         super(page);
@@ -33,7 +35,7 @@ export class ConnexionPage extends BasePage {
     async saisirPassword(password: string): Promise<void> {
         await this.passInput.fill(password);
     }
-
+ 
     async cliquerLogin(): Promise<void> {
         await this.logintBtn.click();
     }

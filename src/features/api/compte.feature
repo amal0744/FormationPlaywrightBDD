@@ -4,7 +4,7 @@ Feature: gestion d'un compte utilisateur via des api
 En tant que testeur je souhaite validé les operations de gestion sur un compte utilisateur 
 via l'api afin de m'assurer que les endpoints fonctionnent correctement
 
-Background:
+Background: 
 Given l'api automatisation exercice est disponible
 Given un email unique doit etre generer
 When je cree le compte avec les donnees generer

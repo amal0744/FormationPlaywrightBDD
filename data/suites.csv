@@ -1,10 +1,10 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
 "En tant que nouvel utilisateur
   Je veux pouvoir m'inscrire
-  Afin d'accéder aux fonctionnalités réservées aux membres","3373","champs obligatoires vides","","2026-08-04","passed","2026-08-04","","","",""
+  Afin d'accéder aux fonctionnalités réservées aux membres","4090","email déjà existant","","2026-10-09","passed","2026-10-09","","","",""
 "En tant que nouvel utilisateur
   Je veux pouvoir m'inscrire
-  Afin d'accéder aux fonctionnalités réservées aux membres","6267","inscription réussie","","2026-08-04","passed","2026-08-04","","","",""
+  Afin d'accéder aux fonctionnalités réservées aux membres","3837","champs obligatoires vides","","2026-10-09","passed","2026-10-09","","","",""
 "En tant que nouvel utilisateur
   Je veux pouvoir m'inscrire
-  Afin d'accéder aux fonctionnalités réservées aux membres","3394","email déjà existant","","2026-08-04","passed","2026-08-04","","","",""
+  Afin d'accéder aux fonctionnalités réservées aux membres","5372","inscription réussie","","2026-10-09","passed","2026-10-09","","","",""
